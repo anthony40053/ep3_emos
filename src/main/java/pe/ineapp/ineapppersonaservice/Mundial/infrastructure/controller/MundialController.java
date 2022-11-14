@@ -8,7 +8,7 @@ import pe.ineapp.ineapppersonaservice.Mundial.infrastructure.request.PlayerReque
 import pe.ineapp.ineapppersonaservice.Mundial.infrastructure.response.*;
 
 @RestController
-@RequestMapping("api/v1/mundial")
+@RequestMapping("/api/v1/mundial")
 public class MundialController {
     @Autowired
     private MundialService mundialService;
