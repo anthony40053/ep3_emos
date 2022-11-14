@@ -1,4 +1,4 @@
-package pe.ineapp.ineapppersonaservice.Person.infrastructure.response;
+package pe.ineapp.ineapppersonaservice.Mundial.infrastructure.response;
 
 import lombok.Builder;
 import lombok.Data;
